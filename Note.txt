@@ -1,0 +1,1 @@
+This is a repo for eViewer7 binaries also available over npm.
